@@ -1,2 +1,2 @@
 # Data-science
-Lean the basic of data science with working with me 
+Lean the basic of data science working with me 
